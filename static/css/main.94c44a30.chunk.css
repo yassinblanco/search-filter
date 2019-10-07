@@ -1,0 +1,2 @@
+body{margin:0;font-family:Helvetica}.App{text-align:center}.search{margin-bottom:2em}.search input{padding:.5em;width:250px;outline:none}.search button{border:none;background-color:#ddd;padding:.65em;cursor:pointer;outline:none}.grid{display:grid;grid-template-columns:repeat(4,1fr)}@media screen and (max-width:785px){.grid{grid-template-columns:repeat(3,1fr)}}@media screen and (max-width:585px){.grid{grid-template-columns:repeat(2,1fr)}}@media screen and (max-width:385px){.grid{grid-template-columns:repeat(1,1fr)}}
+/*# sourceMappingURL=main.94c44a30.chunk.css.map */
